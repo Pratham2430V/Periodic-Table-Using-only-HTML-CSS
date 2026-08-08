@@ -277,3 +277,62 @@ h3 {
 .Radon {
   grid-column: 18;
 }
+.Seventh {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(18, 1fr);
+  grid-template-rows: 1fr;
+}
+.Francium {
+  grid-column: 1;
+}
+.Radium {
+  grid-column: 2;
+}
+.Rutherfordium {
+  grid-column: 4;
+}
+.Dubnium {
+  grid-column: 5;
+}
+.Seaborgium {
+  grid-column: 6;
+}
+.Bohrium {
+  grid-column: 7;
+}
+.Hassium {
+  grid-column: 8;
+}
+.Meitnerium {
+  grid-column: 9;
+}
+
+.Darmstadtium {
+  grid-column: 10;
+}
+.Roentgenium {
+  grid-column: 11;
+}
+
+.Copernicium {
+  grid-column: 12;
+}
+.Nihonium {
+  grid-column: 13;
+}
+.Flerovium {
+  grid-column: 14;
+}
+.Moscovium {
+  grid-column: 15;
+}
+.Livermorium {
+  grid-column: 16;
+}
+.Tennessine {
+  grid-column: 17;
+}
+.Oganesson {
+  grid-column: 18;
+}
