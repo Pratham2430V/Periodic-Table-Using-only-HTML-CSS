@@ -98,9 +98,182 @@ h3 {
   grid-template-columns: repeat(18, 1fr);
   grid-template-rows: 1fr;
 }
+
+.Potassium {
+  grid-column: 1;
+}
+.Calcium {
+  grid-column: 2;
+}
+.Scandium {
+  grid-column: 3;
+}
+.Titanium {
+  grid-column: 4;
+}
+.vanadium {
+  grid-column: 5;
+}
+.Chromium {
+  grid-column: 6;
+}
+.Manganese {
+  grid-column: 7;
+}
+.Iron {
+  grid-column: 8;
+}
+.Cobalt {
+  grid-column: 9;
+}
+
+.Nickel {
+  grid-column: 10;
+}
+.Copper {
+  grid-column: 11;
+}
+
+.Zinc {
+  grid-column: 12;
+}
+.Gallium {
+  grid-column: 13;
+}
+.Germanium {
+  grid-column: 14;
+}
+.Arsenic {
+  grid-column: 15;
+}
+.Selenium {
+  grid-column: 16;
+}
+.bromine {
+  grid-column: 17;
+}
+.Krypton {
+  grid-column: 18;
+}
+
 .Fifth {
   display: grid;
   gap: 10px;
   grid-template-columns: repeat(18, 1fr);
   grid-template-rows: 1fr;
+}
+.Rubidium {
+  grid-column: 1;
+}
+.Strontium {
+  grid-column: 2;
+}
+.Yttrium {
+  grid-column: 3;
+}
+.Zirconium {
+  grid-column: 4;
+}
+.Nioblum {
+  grid-column: 5;
+}
+.Molybdenum {
+  grid-column: 6;
+}
+.Technetium {
+  grid-column: 7;
+}
+.Ruthenium {
+  grid-column: 8;
+}
+.Rhodium {
+  grid-column: 9;
+}
+
+.Palladium {
+  grid-column: 10;
+}
+.Silver {
+  grid-column: 11;
+}
+
+.Cadmium {
+  grid-column: 12;
+}
+.Indium {
+  grid-column: 13;
+}
+.Tin {
+  grid-column: 14;
+}
+.Antimony {
+  grid-column: 15;
+}
+.Tellurium {
+  grid-column: 16;
+}
+.Iodine {
+  grid-column: 17;
+}
+.Xenon {
+  grid-column: 18;
+}
+.Sixth {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(18, 1fr);
+  grid-template-rows: 1fr;
+}
+.Cesium {
+  grid-column: 1;
+}
+.Barium {
+  grid-column: 2;
+}
+.Hafnium {
+  grid-column: 4;
+}
+.Tantalum {
+  grid-column: 5;
+}
+.Tungsten {
+  grid-column: 6;
+}
+.Rhenium {
+  grid-column: 7;
+}
+.Osmium {
+  grid-column: 8;
+}
+.Iridium {
+  grid-column: 9;
+}
+
+.Platinum {
+  grid-column: 10;
+}
+.Gold {
+  grid-column: 11;
+}
+
+.Mercury {
+  grid-column: 12;
+}
+.Thallium {
+  grid-column: 13;
+}
+.Lead {
+  grid-column: 14;
+}
+.Bismuth {
+  grid-column: 15;
+}
+.Polonium {
+  grid-column: 16;
+}
+.Astatine {
+  grid-column: 17;
+}
+.Radon {
+  grid-column: 18;
 }
