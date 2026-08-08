@@ -1,0 +1,95 @@
+body {
+  background-color: black;
+  color: white;
+}
+.Container {
+  width: 1900px;
+  max-width: 95vw;
+  margin: 40px auto;
+}
+h2 {
+  font-size: 0.9rem;
+}
+.first {
+  display: grid;
+  gap: 15px;
+  grid-template-columns: repeat(18, 1fr);
+  grid-template-rows: 1fr;
+}
+.box {
+  padding: 10px;
+  background-color: rgb(73, 82, 82);
+}
+.Hydrogen {
+  grid-column: 1;
+}
+.Hellium {
+  grid-column: 18;
+}
+.Second {
+  display: grid;
+  gap: 15px;
+  grid-template-columns: repeat(18, 1fr);
+  grid-template-rows: 1fr;
+}
+.Lithium {
+  grid-column: 1;
+}
+.Beryllium {
+  grid-column: 2;
+}
+
+.Boron {
+  grid-column: 13;
+}
+.Carbon {
+  grid-column: 14;
+}
+.Nitrogen {
+  grid-column: 15;
+}
+.Oxygen {
+  grid-column: 16;
+}
+.Fluorine {
+  grid-column: 17;
+}
+.Neon {
+  grid-column: 18;
+}
+.Third {
+  display: grid;
+  gap: 15px;
+  grid-template-columns: repeat(18, 1fr);
+  grid-template-rows: 1fr;
+}
+.Sodium {
+  grid-column: 1;
+}
+.Magnesium {
+  grid-column: 2;
+}
+.Aluminium {
+  grid-column: 13;
+}
+.Silicon {
+  grid-column: 14;
+}
+.Phosphorus {
+  grid-column: 15;
+}
+.Sulfur {
+  grid-column: 16;
+}
+.Chlorine {
+  grid-column: 17;
+}
+.Argon {
+  grid-column: 18;
+}
+.Four {
+  display: grid;
+  gap: 15px;
+  grid-template-columns: repeat(18, 1fr);
+  grid-template-rows: 1fr;
+}
