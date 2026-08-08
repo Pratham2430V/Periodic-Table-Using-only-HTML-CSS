@@ -92,7 +92,13 @@ h3 {
 .Argon {
   grid-column: 18;
 }
-.Four {
+.Fourth {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(18, 1fr);
+  grid-template-rows: 1fr;
+}
+.Fifth {
   display: grid;
   gap: 10px;
   grid-template-columns: repeat(18, 1fr);
