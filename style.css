@@ -6,6 +6,10 @@ body {
   width: 1900px;
   max-width: 95vw;
   margin: 40px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 h2 {
   font-size: 0.9rem;
@@ -17,9 +21,9 @@ h3 {
 }
 .first {
   display: grid;
-  gap: 10px;
-  grid-template-columns: repeat(18, 1fr);
-  grid-template-rows: 1fr;
+  gap: 8px;
+  grid-template-columns: repeat(18, 98px);
+  grid-template-rows: 98px;
 }
 .box {
   padding: 10px;
@@ -33,9 +37,9 @@ h3 {
 }
 .Second {
   display: grid;
-  gap: 10px;
-  grid-template-columns: repeat(18, 1fr);
-  grid-template-rows: 1fr;
+  gap: 8px;
+  grid-template-columns: repeat(18, 98px);
+  grid-template-rows: 98px;
 }
 .Lithium {
   grid-column: 1;
@@ -64,9 +68,9 @@ h3 {
 }
 .Third {
   display: grid;
-  gap: 10px;
-  grid-template-columns: repeat(18, 1fr);
-  grid-template-rows: 1fr;
+  gap: 8px;
+  grid-template-columns: repeat(18, 98px);
+  grid-template-rows: 98px;
 }
 .Sodium {
   grid-column: 1;
@@ -94,9 +98,9 @@ h3 {
 }
 .Fourth {
   display: grid;
-  gap: 10px;
-  grid-template-columns: repeat(18, 1fr);
-  grid-template-rows: 1fr;
+  gap: 8px;
+  grid-template-columns: repeat(18, 98px);
+  grid-template-rows: 98px;
 }
 
 .Potassium {
@@ -158,9 +162,9 @@ h3 {
 
 .Fifth {
   display: grid;
-  gap: 10px;
-  grid-template-columns: repeat(18, 1fr);
-  grid-template-rows: 1fr;
+  gap: 8px;
+  grid-template-columns: repeat(18, 98px);
+  grid-template-rows: 98px;
 }
 .Rubidium {
   grid-column: 1;
@@ -220,9 +224,9 @@ h3 {
 }
 .Sixth {
   display: grid;
-  gap: 10px;
-  grid-template-columns: repeat(18, 1fr);
-  grid-template-rows: 1fr;
+  gap: 8px;
+  grid-template-columns: repeat(18, 98px);
+  grid-template-rows: 98px;
 }
 .Cesium {
   grid-column: 1;
@@ -279,9 +283,9 @@ h3 {
 }
 .Seventh {
   display: grid;
-  gap: 10px;
-  grid-template-columns: repeat(18, 1fr);
-  grid-template-rows: 1fr;
+  gap: 8px;
+  grid-template-columns: repeat(18, 98px);
+  grid-template-rows: 98px;
 }
 .Francium {
   grid-column: 1;
