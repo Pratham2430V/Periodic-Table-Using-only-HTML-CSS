@@ -394,3 +394,56 @@ h3 {
 .Lutetium {
   grid-column: 18;
 }
+.Nine {
+  display: grid;
+  gap: 8px;
+  grid-template-columns: repeat(18, 98px);
+  grid-template-rows: 98px;
+}
+.Actinium {
+  grid-column: 4;
+}
+.Thorium {
+  grid-column: 5;
+}
+.Protactinium {
+  grid-column: 6;
+}
+.Uranium {
+  grid-column: 7;
+}
+.Neptunium {
+  grid-column: 8;
+}
+.Plutonium {
+  grid-column: 9;
+}
+
+.Americium {
+  grid-column: 10;
+}
+.Curium {
+  grid-column: 11;
+}
+
+.Berkelium {
+  grid-column: 12;
+}
+.Californium {
+  grid-column: 13;
+}
+.Einsteinium {
+  grid-column: 14;
+}
+.Fermium {
+  grid-column: 15;
+}
+.Mendelevium {
+  grid-column: 16;
+}
+.nobelium {
+  grid-column: 17;
+}
+.Lawrencium {
+  grid-column: 18;
+}
