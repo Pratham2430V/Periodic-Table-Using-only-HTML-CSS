@@ -13,11 +13,11 @@ body {
   -webkit-overflow-scrolling: touch;
 }
 h2 {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   text-align: center;
 }
 h3 {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   text-align: center;
 }
 .first {
@@ -339,5 +339,58 @@ h3 {
   grid-column: 17;
 }
 .Oganesson {
+  grid-column: 18;
+}
+.Eight {
+  display: grid;
+  gap: 8px;
+  grid-template-columns: repeat(18, 98px);
+  grid-template-rows: 98px;
+}
+.Lanthanum {
+  grid-column: 4;
+}
+.Cerium {
+  grid-column: 5;
+}
+.Praseodymium {
+  grid-column: 6;
+}
+.Neodymium {
+  grid-column: 7;
+}
+.Promethium {
+  grid-column: 8;
+}
+.Samarium {
+  grid-column: 9;
+}
+
+.Europium {
+  grid-column: 10;
+}
+.Gadolinium {
+  grid-column: 11;
+}
+
+.Terbium {
+  grid-column: 12;
+}
+.Dysprosium {
+  grid-column: 13;
+}
+.Holmium {
+  grid-column: 14;
+}
+.Erbium {
+  grid-column: 15;
+}
+.Thulium {
+  grid-column: 16;
+}
+.Ytterbium {
+  grid-column: 17;
+}
+.Lutetium {
   grid-column: 18;
 }
