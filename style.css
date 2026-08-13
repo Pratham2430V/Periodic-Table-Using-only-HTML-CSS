@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: #1e2530;
   color: white;
 }
 .Container {
@@ -31,9 +31,12 @@ h3 {
   background-color: rgb(73, 82, 82);
 }
 .Hydrogen {
+  background-color: #ffffff;
+  color: black;
   grid-column: 1;
 }
 .Hellium {
+  background-color: #fadbd8;
   grid-column: 18;
 }
 .Second {
@@ -43,28 +46,36 @@ h3 {
   grid-template-rows: 98px;
 }
 .Lithium {
+  background-color: #ff6b6b;
   grid-column: 1;
 }
 .Beryllium {
+  background-color: #d3f3ee;
   grid-column: 2;
 }
 
 .Boron {
+  background-color: #5d6d7e;
   grid-column: 13;
 }
 .Carbon {
+  background-color: #333;
   grid-column: 14;
 }
 .Nitrogen {
+  background-color: #e1f5fe;
   grid-column: 15;
 }
 .Oxygen {
+  background-color: #b3e5fc;
   grid-column: 16;
 }
 .Fluorine {
+  background-color: #f9e79f;
   grid-column: 17;
 }
 .Neon {
+  background-color: #ff5733;
   grid-column: 18;
 }
 .Third {
@@ -74,27 +85,37 @@ h3 {
   grid-template-rows: 98px;
 }
 .Sodium {
+  background-color: #ffaa00;
   grid-column: 1;
 }
 .Magnesium {
+  background-color: #e6e6e6;
+  color: black;
   grid-column: 2;
 }
 .Aluminium {
+  background-color: #d5dbdb;
+  color: black;
   grid-column: 13;
 }
 .Silicon {
+  background-color: #34495e;
   grid-column: 14;
 }
 .Phosphorus {
+  background-color: #922b21;
   grid-column: 15;
 }
 .Sulfur {
+  background-color: #f4f186;
   grid-column: 16;
 }
 .Chlorine {
+  background-color: #abebc6;
   grid-column: 17;
 }
 .Argon {
+  background-color: #bb8fce;
   grid-column: 18;
 }
 .Fourth {
@@ -105,59 +126,77 @@ h3 {
 }
 
 .Potassium {
+  background-color: #dda0dd;
   grid-column: 1;
 }
 .Calcium {
+  background-color: #ff7f50;
   grid-column: 2;
 }
 .Scandium {
+  background-color: #e0e0e0;
   grid-column: 3;
 }
 .Titanium {
+  background-color: #b0c4de;
   grid-column: 4;
 }
 .vanadium {
+  background-color: #40e0d0;
   grid-column: 5;
 }
 .Chromium {
+  background-color: #00ffff;
   grid-column: 6;
 }
 .Manganese {
+  background-color: #d8bfd8;
   grid-column: 7;
 }
 .Iron {
+  background-color: #8b4513;
   grid-column: 8;
 }
 .Cobalt {
+  background-color: #0047ab;
   grid-column: 9;
 }
 
 .Nickel {
+  background-color: #708090;
   grid-column: 10;
 }
 .Copper {
+  background-color: #b87333;
   grid-column: 11;
 }
 
 .Zinc {
+  background-color: #95a5a6;
   grid-column: 12;
 }
 .Gallium {
+  background-color: #a6acaf;
   grid-column: 13;
 }
 .Germanium {
+  background-color: #7f8c8d;
   grid-column: 14;
 }
 .Arsenic {
+  background-color: #4a235a;
   grid-column: 15;
 }
 .Selenium {
+  background-color: #c0392b;
   grid-column: 16;
 }
 .bromine {
+  background-color: #7e1e1b;
   grid-column: 17;
 }
 .Krypton {
+  background-color: #aed6f1;
   grid-column: 18;
 }
 
