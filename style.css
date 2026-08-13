@@ -207,59 +207,77 @@ h3 {
   grid-template-rows: 98px;
 }
 .Rubidium {
+  background-color: #c71585;
   grid-column: 1;
 }
 .Strontium {
+  background-color: #ff007f;
   grid-column: 2;
 }
 .Yttrium {
+  background-color: #cccccc;
   grid-column: 3;
 }
 .Zirconium {
+  background-color: #e6e6fa;
   grid-column: 4;
 }
 .Nioblum {
+  background-color: #6a5acd;
   grid-column: 5;
 }
 .Molybdenum {
+  background-color: #5f9ea0;
   grid-column: 6;
 }
 .Technetium {
+  background-color: #7f8c8d;
   grid-column: 7;
 }
 .Ruthenium {
+  background-color: #7b241c;
   grid-column: 8;
 }
 .Rhodium {
+  background-color: #f0f3f4;
   grid-column: 9;
 }
 
 .Palladium {
+  background-color: #bdc3c7;
   grid-column: 10;
 }
 .Silver {
+  background-color: #e0e0e0;
   grid-column: 11;
 }
 
 .Cadmium {
+  background-color: #ffd700;
   grid-column: 12;
 }
 .Indium {
+  background-color: #4a90e2;
   grid-column: 13;
 }
 .Tin {
+  background-color: #eaeded;
   grid-column: 14;
 }
 .Antimony {
+  background-color: #85929e;
   grid-column: 15;
 }
 .Tellurium {
+  background-color: #566573;
   grid-column: 16;
 }
 .Iodine {
+  background-color: #4a235a;
   grid-column: 17;
 }
 .Xenon {
+  background-color: #85c1e9;
   grid-column: 18;
 }
 .Sixth {
