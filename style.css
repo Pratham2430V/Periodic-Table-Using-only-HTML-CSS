@@ -12,6 +12,10 @@ body {
   overflow-y: hidden;
   -webkit-overflow-scrolling: touch;
 }
+a {
+  color: inherit;
+  text-decoration: none;
+}
 h2 {
   font-size: 0.8rem;
   text-align: center;
