@@ -6,9 +6,10 @@ h1 {
   text-align: center;
   font-size: 3rem;
   background-color: #393e46;
-  border: 2px solid white;
+  border: 5px solid white;
   border-radius: 10px;
   padding: 10px;
+  margin: 10px;
 }
 img {
   max-width: 700px;
@@ -18,4 +19,39 @@ img {
   border: 5px solid white;
   border-radius: 50%;
   margin: 50px auto;
+}
+.P {
+  background-color: #00adb5;
+  padding: 5px;
+  margin: 10px;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+h2 {
+  background-color: #ff2e63;
+  font-size: 2rem;
+  padding: 15px;
+  display: inline-block;
+  border-radius: 8px;
+  border: 2px solid white;
+  margin-bottom: 1px;
+}
+h3 {
+  background-color: #ffb6b9;
+  font-size: 1.5rem;
+  display: inline-block;
+  padding: 10px;
+  border-radius: 8px;
+  border: 2px solid white;
+  margin-bottom: 1px;
+}
+h4 {
+  font-size: 1rem;
+  background-color: #d622c7;
+  display: inline-block;
+  padding: 10px;
+  border-radius: 8px;
+  border: 2px solid white;
+
+  margin-bottom: 1px;
 }
